@@ -15,7 +15,7 @@
         <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyLi17&hide_progress=true&theme=radical" width="40%" height="200px"/></a>
     </div>
 </div> -->
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JeremyLi17&theme=radical" alt="Jeremy's GitHub stats" height="200px"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyLi17&hide_progress=true&theme=radical" height="200px"/></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JeremyLi17&theme=radical" alt="Jeremy's GitHub stats" height="170px"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyLi17&hide_progress=true&theme=radical" height="170px"/></a> |
 
 ---
 ### 📔 Coding NoteBook
