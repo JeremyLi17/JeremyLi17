@@ -46,6 +46,7 @@
 - [🧑🏻‍💼 Social Media Backend System | **Django**](https://github.com/JeremyLi17/Online_SecKill_System)
 - [🎮 Monocular Depth Estimation in 3D game: GTAV | **Pytorch**](https://drive.google.com/file/d/186CO0Hr6ntT5zQ6TCEz-Xnb9Y7u15iex/view?usp=sharing)
   - [Demo Video](https://youtube.com/shorts/JJqnTYTIdRE)
+  - [GTAV Depth Image Dataset(Open Source)](https://drive.google.com/file/d/15RsHsYQ3iXJw3sAFx4TMkjWzkjH2leA2/view?usp=sharing)
 - [📈 Crossbreed Statistical Arbitrage based on GAN Optimization (in Chinese) | **TensorFlow**](https://drive.google.com/file/d/1P_lwB6mCoxfhs5YtSsRtyAvJhKla8t1B/view?usp=sharing)
 
 
