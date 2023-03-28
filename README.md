@@ -6,6 +6,7 @@
 
 - 💼 Actively looking for SDE/SWE full-stack/back-end/front-end 2023 New Grad opportunities. Please kindly reach me for potential roles!
 
+
 ### My Github Info:
 <!-- <div style="display: flex; justify-content: space-between; flex-direction: row;">
     <div>
@@ -17,24 +18,27 @@
 </div> -->
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JeremyLi17&theme=radical" alt="Jeremy's GitHub stats" height="170px"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyLi17&hide_progress=true&theme=radical" height="170px"/></a> |
 
+
+### My Main Tech Stack:
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+
 ---
 ### 📔 Coding NoteBook
 
 - [📔 Full-Stack Software Development | *Updating...*](https://elemental-trollius-a38.notion.site/Full-Stack-Design-9395a3178f554bf8a69bf2acf137c4c8)
 - [📙 Flutter Development | *Finished*](https://drive.google.com/file/d/1CX9jmRSuGbB0ohGAQR40-tVOvgXBZakv/view?usp=sharing)
-- [👨🏻‍💻 Technical Interview Questions | *Updating...*](https://www.notion.so/Techical-Question-e797f59ab22d4b21bc780c467c513337?pvs=4)
 - [💻 Leetcode and OA Programming Challenge summary | *Updating...*](https://www.notion.so/6d4bf7f827f64fe2acef57e7bd2bd09f?v=cbf8119bdf224c55b3f495261b1880c1&pvs=4)
 
 ---
-### 🏠 Project Repo
-#### Java
+### 🏠 My Projects
+#### ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 - [📚 Library Resources Database Management System | **SpringBoot + React**](https://github.com/JeremyLi17/Library_Resources_DB_Management_System)
 - [🛒 Online Shopping Flash Sale System | **SpringBoot**](https://github.com/JeremyLi17/Online_SecKill_System)
 - [🙋🏻‍♂️ User Portal System | **SpringBoot**](https://github.com/JeremyLi17/UserPortal_System)
-- [🧾 Optimized Group Bill Spliter | **SpringBoot** | *Developing...*](https://github.com/JeremyLi17/Social_Media_with_RealTime_Online_Chat)
+- [🧾 Optimized Group Bill Spliter | **SpringBoot** | *Developing...*](https://github.com/JeremyLi17/Bill_Split)
 
 
-#### JavaScript
+#### ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 - [🎫 Online Ticketing System Backed By Microservices | **MERN**](https://github.com/JeremyLi17/Online_Ticketing_Microservices)
 - [💬 Socail Media with Real-time Chat | **MERN + Socket**](https://github.com/JeremyLi17/Social_Media_with_RealTime_Online_Chat)
 - [🏨 Booking.com Clone | **MERN**](https://github.com/JeremyLi17/Booking_System)
@@ -42,15 +46,15 @@
 - [📈 S&P500 Index Visualization | **React + ECharts**](https://github.com/JeremyLi17/SP500_OHLC_Visualization)
 
 
-#### Python
-- [🧑🏻‍💼 Social Media Backend System | **Django**](https://github.com/JeremyLi17/Online_SecKill_System)
+#### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- [🧑🏻‍💼 Social Media Backend System | **Django**](https://github.com/JeremyLi17/Social-Media-Backend-System)
 - [🎮 Monocular Depth Estimation in 3D game: GTAV | **Pytorch**](https://drive.google.com/file/d/186CO0Hr6ntT5zQ6TCEz-Xnb9Y7u15iex/view?usp=sharing)
   - [Demo Video](https://youtube.com/shorts/JJqnTYTIdRE)
   - [GTAV Depth Image Dataset(Open Source)](https://drive.google.com/file/d/15RsHsYQ3iXJw3sAFx4TMkjWzkjH2leA2/view?usp=sharing)
 - [📈 Crossbreed Statistical Arbitrage based on GAN Optimization (in Chinese) | **TensorFlow**](https://drive.google.com/file/d/1P_lwB6mCoxfhs5YtSsRtyAvJhKla8t1B/view?usp=sharing)
 
 
-#### Dart
+#### ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 - [🏠 AssetMappr | **Flutter**](https://github.com/annawangkkk/AssetMappr-Mobile-APP)
   - Open Testing on [Goolge Play](https://play.google.com/store/apps/details?id=com.assetmappr.asset_mappr) !
 - [🧑🏻‍🍳 CookBook | **Flutter**](https://github.com/JeremyLi17/Favorite_Food)
@@ -58,4 +62,5 @@
 ---
 ### 📇 Contact
 - Email: HaotianLi0505@hotmail.com
-- LinkedIn: [LinkedIn profile](https://www.linkedin.com/in/haotian-li-596a6a247/)
+<!-- - LinkedIn: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haotian-li-596a6a247/) -->
+- LinkedIn: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" justify-content="center" height="20px">](https://www.linkedin.com/in/haotian-li-596a6a247/)
