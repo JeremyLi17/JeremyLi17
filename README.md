@@ -16,8 +16,10 @@
         <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyLi17&hide_progress=true&theme=radical" width="40%" height="200px"/></a>
     </div>
 </div> -->
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JeremyLi17&theme=radical" alt="Jeremy's GitHub stats" height="170px"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JeremyLi17&theme=radical" height="170px"/></a> |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JeremyLi17&theme=radical" alt="Jeremy's GitHub stats" height="170px"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyLi17&theme=radical&hide_progress=true" height="170px"/></a>
 
+### My Leetcode Process:
+[![Leetcode Stats](https://leetcode-stats-six.vercel.app/api?username=jeremyli17&theme=dark)](https://leetcode.com/jeremyli17/)
 
 ### My Main Tech Stack:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
