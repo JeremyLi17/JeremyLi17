@@ -43,7 +43,7 @@
 #### ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 - [🎫 Online Ticketing System Backed By Microservices | **MERN**](https://github.com/JeremyLi17/Online_Ticketing_Microservices)
 - [💬 Socail Media with Real-time Chat | **MERN + Socket**](https://github.com/JeremyLi17/Social_Media_with_RealTime_Online_Chat)
-- [🎟️ Event Booking Platform | **MERN + GraphQL**](https://github.com/JeremyLi17/Event-Booking-GraphQL)
+- [🎟️ Event Booking Platform | **MERN + GraphQL** | *Developing*](https://github.com/JeremyLi17/Event-Booking-GraphQL)
 - [🏨 Booking.com Clone | **MERN**](https://github.com/JeremyLi17/Booking_System)
 - [🎥 Youtube.com Clone | **MERN**](https://github.com/JeremyLi17/Clone_YouTube)
 - [📈 S&P500 Index Visualization | **React + ECharts**](https://github.com/JeremyLi17/SP500_OHLC_Visualization)
@@ -65,5 +65,4 @@
 ---
 ### 📇 Contact
 - Email: HaotianLi0505@hotmail.com
-<!-- - LinkedIn: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haotian-li-596a6a247/) -->
 - LinkedIn: [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" justify-content="center" height="20px">](https://www.linkedin.com/in/haotian-li-596a6a247/)
