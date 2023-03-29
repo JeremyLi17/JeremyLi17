@@ -55,6 +55,11 @@
   - [Demo Video](https://youtube.com/shorts/JJqnTYTIdRE)
   - [GTAV Depth Image Dataset(Open Source)](https://drive.google.com/file/d/15RsHsYQ3iXJw3sAFx4TMkjWzkjH2leA2/view?usp=sharing)
 - [📈 Crossbreed Statistical Arbitrage based on GAN Optimization (in Chinese) | **TensorFlow**](https://drive.google.com/file/d/1P_lwB6mCoxfhs5YtSsRtyAvJhKla8t1B/view?usp=sharing)
+- [🎛️ Image Classification Based on ResNet](https://github.com/JeremyLi17/ResNet_Image_Classification_Model)
+- 🎞️ Image and Video Processing | **OpenCV + Pytorch**
+  - [Pyramid Transforms and Wavelet Transform](https://github.com/JeremyLi17/Image_and_Video_Processing/blob/main/Pyramid_Transforms.ipynb)
+  - [Image Segmentation Based on U-net](https://github.com/JeremyLi17/Image_and_Video_Processing/blob/main/U-net_for_image_segmentation.ipynb)
+  - [Feature Detection and Image Stitching](https://github.com/JeremyLi17/Image_and_Video_Processing/blob/main/Feature_Detection_and_Image_Stitching.ipynb)
 
 
 #### ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
