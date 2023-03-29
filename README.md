@@ -43,6 +43,7 @@
 #### ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 - [🎫 Online Ticketing System Backed By Microservices | **MERN**](https://github.com/JeremyLi17/Online_Ticketing_Microservices)
 - [💬 Socail Media with Real-time Chat | **MERN + Socket**](https://github.com/JeremyLi17/Social_Media_with_RealTime_Online_Chat)
+- [🎟️ Event Booking Platform | **MERN + GraphQL**](https://github.com/JeremyLi17/Event-Booking-GraphQL)
 - [🏨 Booking.com Clone | **MERN**](https://github.com/JeremyLi17/Booking_System)
 - [🎥 Youtube.com Clone | **MERN**](https://github.com/JeremyLi17/Clone_YouTube)
 - [📈 S&P500 Index Visualization | **React + ECharts**](https://github.com/JeremyLi17/SP500_OHLC_Visualization)
