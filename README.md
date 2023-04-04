@@ -47,6 +47,9 @@
 - [🏨 Booking.com Clone | **MERN**](https://github.com/JeremyLi17/Booking_System)
 - [🎥 Youtube.com Clone | **MERN**](https://github.com/JeremyLi17/Clone_YouTube)
 - [🖼️ NFT MarketPlace | **React Native**](https://github.com/JeremyLi17/NFT_MarketPalce)
+  - [Demo Video](https://youtube.com/shorts/o6mZXNIQzX8)
+  - [ShowCase WebPage](https://github.com/JeremyLi17/ShowCase_for_NFT_Marketplace)
+  - [ShowCase Video](https://youtu.be/-bKKe0VtfN4)
 - [📈 S&P500 Index Visualization | **React + ECharts**](https://github.com/JeremyLi17/SP500_OHLC_Visualization)
 
 
