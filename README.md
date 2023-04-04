@@ -16,13 +16,13 @@
         <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyLi17&hide_progress=true&theme=radical" width="40%" height="200px"/></a>
     </div>
 </div> -->
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JeremyLi17&theme=radical" alt="Jeremy's GitHub stats" height="170px"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyLi17&theme=radical&hide_progress=true" height="170px"/></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=JeremyLi17&theme=radical" alt="Jeremy's GitHub stats" height="170px"/></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyLi17&theme=radical&hide_progress=true" height="170px"/></a>
 
 ### My Leetcode Process:
 [![Leetcode Stats](https://leetcode-stats-six.vercel.app/api?username=jeremyli17&theme=dark)](https://leetcode.com/jeremyli17/)
 
 ### My Main Tech Stack:
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ---
 ### 📔 Coding NoteBook
@@ -42,10 +42,11 @@
 
 #### ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 - [🎫 Online Ticketing System Backed By Microservices | **MERN**](https://github.com/JeremyLi17/Online_Ticketing_Microservices)
-- [💬 Social Media with Real-time Chat | **MERN + Socket**](https://github.com/JeremyLi17/Social_Media_with_RealTime_Online_Chat)
+- [💬 Social Media with Real-time Online Chat | **MERN + Socket**](https://github.com/JeremyLi17/Social_Media_with_RealTime_Online_Chat)
 - [🎟️ Event Booking Platform | **MERN + GraphQL**](https://github.com/JeremyLi17/Event-Booking-GraphQL)
 - [🏨 Booking.com Clone | **MERN**](https://github.com/JeremyLi17/Booking_System)
 - [🎥 Youtube.com Clone | **MERN**](https://github.com/JeremyLi17/Clone_YouTube)
+- [🖼️ NFT MarketPlace | **React Native**](https://github.com/JeremyLi17/NFT_MarketPalce)
 - [📈 S&P500 Index Visualization | **React + ECharts**](https://github.com/JeremyLi17/SP500_OHLC_Visualization)
 
 
