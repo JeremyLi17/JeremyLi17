@@ -22,7 +22,7 @@
 [![Leetcode Stats](https://leetcode-stats-six.vercel.app/api?username=jeremyli17&theme=dark)](https://leetcode.com/jeremyli17/)
 
 ### My Main Tech Stack:
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 ### 📔 Coding NoteBook
@@ -55,11 +55,12 @@
 
 #### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - [🧑🏻‍💼 Social Media Backend System | **Django**](https://github.com/JeremyLi17/Social-Media-Backend-System)
+- [🚧 User Authentication System | **Flask**](https://github.com/JeremyLi17/Auth_System_By_Flask)
 - [🎮 Monocular Depth Estimation in 3D game: GTAV | **Pytorch**](https://drive.google.com/file/d/186CO0Hr6ntT5zQ6TCEz-Xnb9Y7u15iex/view?usp=sharing)
   - [Demo Video](https://youtube.com/shorts/JJqnTYTIdRE)
   - [GTAV Depth Image Dataset(Open Source)](https://drive.google.com/file/d/15RsHsYQ3iXJw3sAFx4TMkjWzkjH2leA2/view?usp=sharing)
 - [📈 Crossbreed Statistical Arbitrage based on GAN Optimization (in Chinese) | **TensorFlow**](https://drive.google.com/file/d/1P_lwB6mCoxfhs5YtSsRtyAvJhKla8t1B/view?usp=sharing)
-- [🎛️ Image Classification Based on ResNet](https://github.com/JeremyLi17/ResNet_Image_Classification_Model)
+- [🎛️ Image Classification Based on ResNet | **Pytorch** ](https://github.com/JeremyLi17/ResNet_Image_Classification_Model)
 - [🎞️ Image and Video Processing | **OpenCV + Pytorch**](https://github.com/JeremyLi17/Image_and_Video_Processing)
   - [Pyramid Transforms and Wavelet Transform](https://github.com/JeremyLi17/Image_and_Video_Processing/blob/main/Pyramid_Transforms.ipynb)
   - [Image Segmentation Based on U-net](https://github.com/JeremyLi17/Image_and_Video_Processing/blob/main/U-net_for_image_segmentation.ipynb)
