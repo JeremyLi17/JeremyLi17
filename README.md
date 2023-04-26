@@ -34,9 +34,10 @@
 ---
 ### 🏠 My Projects
 #### ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-- [📚 Library Resources Database Management System | **SpringBoot + React**](https://github.com/JeremyLi17/Library_Resources_DB_Management_System)
-- [🛒 Online Shopping Flash Sale System | **SpringBoot**](https://github.com/JeremyLi17/Online_SecKill_System)
+- [📚 Library Resources Database Management System | **SpringBoot + Hibernate + React**](https://github.com/JeremyLi17/Library_Resources_DB_Management_System)
+- [🛒 Online Shopping Flash Sale System | **SpringBoot + MyBatis**](https://github.com/JeremyLi17/Online_SecKill_System)
 - [🙋🏻‍♂️ User Portal System | **SpringBoot**](https://github.com/JeremyLi17/UserPortal_System)
+- [🙇🏻 Courses Management System | **SpringBoot + JSP**](https://github.com/JeremyLi17/Courses_Management_System)
 - [🧾 Optimized Group Bill Spliter | **SpringBoot** | *Developing...*](https://github.com/JeremyLi17/Bill_Split)
 
 
