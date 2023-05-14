@@ -38,6 +38,7 @@
 - [🛒 Online Shopping Flash Sale System | **SpringBoot + MyBatis**](https://github.com/JeremyLi17/Online_SecKill_System)
 - [🙋🏻‍♂️ User Portal System | **SpringBoot**](https://github.com/JeremyLi17/UserPortal_System)
 - [🙇🏻 Courses Management System | **SpringBoot + JSP + JDBC + Hibernate**](https://github.com/JeremyLi17/Courses_Management_System)
+- [🙇🏻 Courses Management RESTful Backend System | **SpringBoot + Hibernate**](https://github.com/JeremyLi17/Course_Management_Backend)
 - [🧾 Optimized Group Bill Spliter | **SpringBoot** | *Developing...*](https://github.com/JeremyLi17/Bill_Split)
 
 
