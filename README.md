@@ -23,11 +23,12 @@
 
 ### My Main Tech Stack:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+<!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) -->
 
 ---
 ### 📔 Coding NoteBook
 
-- [📔 Full-Stack Software Development | *Updating...*](https://elemental-trollius-a38.notion.site/Full-Stack-Design-9395a3178f554bf8a69bf2acf137c4c8)
+- [📔 Full-Stack Software Development | *Updating...*](https://elemental-trollius-a38.notion.site/Techical-Note-e797f59ab22d4b21bc780c467c513337?pvs=4)
 - [📙 Flutter Development | *Finished*](https://drive.google.com/file/d/1CX9jmRSuGbB0ohGAQR40-tVOvgXBZakv/view?usp=sharing)
 - [💻 Leetcode and OA Programming Challenge summary | *Updating...*](https://www.notion.so/6d4bf7f827f64fe2acef57e7bd2bd09f?v=cbf8119bdf224c55b3f495261b1880c1&pvs=4)
 
@@ -39,7 +40,7 @@
 - [🙋🏻‍♂️ User Portal System | **SpringBoot**](https://github.com/JeremyLi17/UserPortal_System)
 - [🙇🏻 Courses Management System | **SpringBoot + JSP + JDBC + Hibernate**](https://github.com/JeremyLi17/Courses_Management_System)
 - [🙇🏻 Courses Management RESTful Backend System | **SpringBoot + Hibernate**](https://github.com/JeremyLi17/Course_Management_Backend)
-- [🧾 Optimized Group Bill Spliter | **SpringBoot** | *Developing...*](https://github.com/JeremyLi17/Bill_Split)
+<!-- - [🧾 Optimized Group Bill Spliter | **SpringBoot** | *Developing...*](https://github.com/JeremyLi17/Bill_Split) -->
 
 
 #### ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -68,6 +69,11 @@
   - [Image Segmentation Based on U-net](https://github.com/JeremyLi17/Image_and_Video_Processing/blob/main/U-net_for_image_segmentation.ipynb)
   - [Feature Detection and Image Stitching](https://github.com/JeremyLi17/Image_and_Video_Processing/blob/main/Feature_Detection_and_Image_Stitching.ipynb)
 
+#### ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+- [⛳️ GO GRPC](https://github.com/JeremyLi17/go_grpc)
+
+#### ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+- [📱 SwiftUI Tutorial & Reusable Components | **SwiftUI**](https://github.com/JeremyLi17/SwiftUI-Tutorial)
 
 #### ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 - [🏠 AssetMappr | **Flutter**](https://github.com/annawangkkk/AssetMappr-Mobile-APP)
