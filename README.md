@@ -4,7 +4,7 @@
 
 - 💻 Product-driven web/mobile software engineer with hands-on development skills.
 
-- 💼 Actively looking for SDE/SWE full-stack/back-end/front-end 2023 New Grad opportunities. Please kindly reach me for potential roles!
+- 💼 Actively looking for SDE/SWE full-stack/back-end/front-end opportunities. Please kindly reach me for potential roles!
 
 
 ### My Github Info:
@@ -19,7 +19,7 @@
 <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=JeremyLi17&theme=radical" alt="Jeremy's GitHub stats" height="170px"/></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeremyLi17&theme=radical&hide_progress=true" height="170px"/></a>
 
 ### My Leetcode Process:
-[![Leetcode Stats](https://leetcode-stats-six.vercel.app/api?username=jeremyli17&theme=dark)](https://leetcode.com/jeremyli17/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/jeremyli17)](https://leetcode.com/jeremyli17/)
 
 ### My Main Tech Stack:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
